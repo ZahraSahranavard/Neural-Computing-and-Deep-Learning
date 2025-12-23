@@ -3,4 +3,3 @@
 **Specialization:** Artificial Intelligence  
 **Year:** 2025
 
-🔄 Regular updates
